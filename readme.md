@@ -17,6 +17,8 @@ Sign-in URL: https://portal.azure.com/#view/HubsExtension/BrowseResource/resourc
 
 ![](./images/2.png)
 
+**NOTE:** <span color="red"> PLEASE DO NOT CLICK "NEXT" and DO NOT DOWNLOAD "MICROSOFT AUTHENTICATOR APP"</span>
+
 After login, enter the same URL in the browser to view the virtual machines:
 
 `https://portal.azure.com/#browse/Microsoft.Compute%2FVirtualMachines`
